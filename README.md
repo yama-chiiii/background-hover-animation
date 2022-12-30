@@ -1,1 +1,1 @@
-# background-hover-animation
+cssのアニメーションに挑戦してみたくて、youtubeの解説を見ながら作りました。
